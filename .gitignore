@@ -6,3 +6,6 @@ venv/
 .gradio/
 .streamlit/secrets.toml
 .DS_Store
+
+# CSV efêmero gerado pela versão Streamlit (o de exemplo fica em gradio_app/)
+streamlit_app/pacientes.csv

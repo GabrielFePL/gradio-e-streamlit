@@ -1,3 +1,4 @@
-gradio
-streamlit
-pandas
+gradio>=5.0
+streamlit>=1.50
+pandas>=2.0
+tzdata
