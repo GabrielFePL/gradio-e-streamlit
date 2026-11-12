@@ -9,7 +9,7 @@ A mesma aplicação de coleta de dados — o cadastro de pacientes usado pela re
 | [`gradio_app/`](gradio_app/) | Gradio (`gr.Blocks`) | Local | [`gradio_app/pacientes.csv`](gradio_app/pacientes.csv) |
 | [`streamlit_app/`](streamlit_app/) | Streamlit (`st.form`) | Streamlit Community Cloud | `st.session_state` + `pacientes.csv` efêmero + botão **Baixar CSV** |
 
-**App publicado (Streamlit Community Cloud):** _link a preencher após o deploy_
+**App publicado (Streamlit Community Cloud):** https://gradio-e-app-ylbxf8mknvdyz7knvlr8mu.streamlit.app/
 
 ## Formulário
 
@@ -32,9 +32,9 @@ Melhorias em relação aos esqueletos fornecidos:
 
 ## Prints
 
-| Gradio — local (desktop) | Gradio — local (celular) | Streamlit — celular |
+| Gradio — local (desktop) | Gradio — local (celular) | Streamlit Cloud — celular |
 |---|---|---|
-| ![Gradio desktop](docs/prints/gradio_local_desktop.png) | ![Gradio celular](docs/prints/gradio_local_celular.png) | ![Streamlit celular](docs/prints/streamlit_local_celular.png) |
+| ![Gradio desktop](docs/prints/gradio_local_desktop.png) | ![Gradio celular](docs/prints/gradio_local_celular.png) | ![Streamlit Cloud celular](docs/prints/streamlit_cloud_celular.png) |
 
 ## Como executar localmente
 
